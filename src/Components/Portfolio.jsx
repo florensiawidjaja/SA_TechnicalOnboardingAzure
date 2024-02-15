@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/professional_portrait.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "My picture in Professional suit as a professional portrait";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Life Leap: Virtual Career Fair as a Rehabilitation Program for Prisoners",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A summer school project which topic aims to help prisoners reintegrate into society by providing them with career preparation.",
+    url: "https://www.canva.com/design/DAFIRFdNrso/IsyXCSNMOnIEAit31Eskyg/view?utm_content=DAFIRFdNrso&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Learning Deep Learning and Pytorch",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Learned about how to train a basic Deep learning model by using Pytorch (Guided by an incredible Youtuber, MrdBourke, and his outstanding one-day tutorial)",
+    url: "https://colab.research.google.com/drive/1f7yPCMbh4PY3gqvM0_7J-uEOCvOSrUK6?usp=sharing",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Discover further information about my experience and professional life.",
+    url: "https://drive.google.com/file/d/1SXcxt9ylsi3FyqoUPtoZpB59KLLUShIQ/view?usp=sharing",
   },
 ];
 
