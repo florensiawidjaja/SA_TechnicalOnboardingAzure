@@ -13,9 +13,9 @@ body {
   padding: 0;
   width: 100%;  
 }
-/* Add a smooth scroll*/
+/*Add a smooth scroll*/
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth !important;
 }
 
 div#main {
